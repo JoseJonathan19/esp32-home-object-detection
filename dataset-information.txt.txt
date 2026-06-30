@@ -1,0 +1,19 @@
+Dataset Information
+
+Project: ESP32-CAM At-Home Object Detection
+
+Classes:
+1. Background
+2. Water bottle
+3. Xbox controller
+
+Dataset:
+- Approximately 75 background images
+- Approximately 75 water bottle images
+- Approximately 75 Xbox controller images
+
+Collection environment:
+Images were collected in an at-home setting using different backgrounds, lighting conditions, camera angles, distances, and object positions.
+
+Purpose:
+The dataset was used to train an Edge Impulse object detection model that can identify a water bottle and an Xbox controller.
